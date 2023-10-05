@@ -2,5 +2,17 @@
   {
     "package": "Environment",
     "url": "https://github.com/FlippieCoetser/Environment"
+  },
+  {
+    "package": "Query",
+    "url": "https://github.com/FlippieCoetser/Query"
+  },
+  {
+    "package": "Validate",
+    "url": "https://github.com/FlippieCoetser/Validate"
+  },
+  {
+    "package": "Storage",
+    "url": "https://github.com/FlippieCoetser/Storage"
   }
 ]
