@@ -14,5 +14,9 @@
   {
     "package": "Storage",
     "url": "https://github.com/FlippieCoetser/Storage"
+  },
+  {
+    "package": "Authenticate",
+    "url": "https://github.com/FlippieCoetser/Authenticate"
   }
 ]
